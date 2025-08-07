@@ -2,6 +2,7 @@
 
 This project demonstrates the integration of Pygame and OpenCV to build interactive applications that combine game elements with real-time camera input. Using Python, the project captures video through OpenCV and displays or processes it inside a Pygame window — perfect for experimenting with computer vision, real-time image processing, or AI-powered games.
 
+<img width="1366" height="768" alt="gamepy" src="https://github.com/user-attachments/assets/cd0a4220-ddde-44da-b61f-6ecc4185b3ea" />
 
 
 🔧 Key Features:
